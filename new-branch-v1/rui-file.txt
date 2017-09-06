@@ -1,5 +1,5 @@
 Ficheiro Rui Testes GIT
 
-Ficheiro foi alterado uma vez
+Editei este ficheiro depois de criar a minha branch e fiz commit
 
-Ficheiro alterado duas vezes
+Isto estava no master
