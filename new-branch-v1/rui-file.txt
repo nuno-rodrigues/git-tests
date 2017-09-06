@@ -1,1 +1,3 @@
 Ficheiro Rui Testes GIT
+
+Ficheiro foi alterado uma vez
